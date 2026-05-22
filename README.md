@@ -5,7 +5,7 @@ This project demonstrates database integration and CRUD operations using MongoDB
 
 🚀 Live Demo
 
-[https://nadaam0hamed.github.io/decodelabs_task2_Nada/]
+[https://nadaam0hamed.github.io/decodelabs_task3_Nada/]
 
 💻 GitHub Repository
 
